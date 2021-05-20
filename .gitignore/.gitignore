@@ -1,0 +1,3 @@
+git remote добавить источник git@github.com:kamushekq/kamushekq.git
+ветвь git -M main
+git push -u исходный основной
